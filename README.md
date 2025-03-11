@@ -55,7 +55,3 @@ A API conta com endpoints para gerenciar alunos, professores e turmas. Exemplos:
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
----
-🚀 Desenvolvido por [Seu Nome]
-
